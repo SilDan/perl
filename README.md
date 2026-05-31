@@ -1,2 +1,2 @@
-# perl
-basics in perl
+# perl5
+basics in perl5
